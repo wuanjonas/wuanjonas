@@ -7,19 +7,19 @@
 </p>
 
 <p align="center">
-<img src="https://files.catbox.moe/poxp5g.gif" /> <img src="https://files.catbox.moe/js6grr.gif" /> " I'll be missing you like oxygen. " <img src="https://files.catbox.moe/8dt7bx.gif" />
+<img src="https://files.catbox.moe/poxp5g.gif" width="14"/> <img src="https://files.catbox.moe/js6grr.gif"  width="14"/> " I'll be missing you like oxygen. " <img src="https://files.catbox.moe/8dt7bx.gif"  width="14"/>
 </p>
 
 <p align="center">
-<img src="https://files.catbox.moe/5pu62t.png" width="20"/> | Enniu . He it bug . 5teen <img src="https://files.catbox.moe/hl33m8.jpg" /> <img src="https://files.catbox.moe/274sj7.jpg" />
+<img src="https://files.catbox.moe/5pu62t.png" width="18"/> | Enniu . He it bug . 5teen <img src="https://files.catbox.moe/hl33m8.jpg" width="14"/> <img src="https://files.catbox.moe/274sj7.jpg" width="14"/>
 </p>
 
 <p align="center">
-Under 13 IWC, I block freely <img src="https://files.catbox.moe/oge18k.gif" /> 
+Under 13 IWC, I block freely <img src="https://files.catbox.moe/oge18k.gif" width="14"/> 
 </p>
 
 <p align="center">
-WEEZER FANS PLEASE INTERACT I'M DESPERATE ...  <img src="https://files.catbox.moe/79ph10.gif" /> 
+WEEZER FANS PLEASE INTERACT I'M DESPERATE ...  <img src="https://files.catbox.moe/79ph10.gif" width="14"/> 
 </p>
 
 <p align="center">
