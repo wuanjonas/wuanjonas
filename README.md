@@ -19,7 +19,7 @@ Under 13 IWC, I block freely <img src="https://files.catbox.moe/oge18k.gif" widt
 </p>
 
 <p align="center">
-WEEZER FANS PLEASE INTERACT I'M DESPERATE ...  <img src="https://files.catbox.moe/79ph10.gif" width="14"/> 
+C+H Ok ! <img src="https://files.catbox.moe/79ph10.gif" width="14"/> W2INT
 </p>
 
 <p align="center">
