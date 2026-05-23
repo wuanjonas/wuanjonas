@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-<img src="https://files.catbox.moe/5pu62t.png" width="18"/> | Enniu . He it bug . 5teen <img src="https://files.catbox.moe/hl33m8.jpg" width="14"/> <img src="https://files.catbox.moe/274sj7.jpg" width="14"/>
+<img src="https://files.catbox.moe/5pu62t.png" width="18"/> | Enniu . He it . 5teen <img src="https://files.catbox.moe/hl33m8.jpg" width="14"/> <img src="https://files.catbox.moe/274sj7.jpg" width="14"/>
 </p>
 
 <p align="center">
