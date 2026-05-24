@@ -7,11 +7,11 @@
 </p>
 
 <p align="center">
-<img src="https://files.catbox.moe/5pu62t.png" width="18"/> | Enniu . He it . 5teen <img src="https://files.catbox.moe/hl33m8.jpg" width="14"/> <img src="https://files.catbox.moe/274sj7.jpg" width="14"/>
+<img src="https://files.catbox.moe/5pu62t.png" width="18"/> | $\color{#4263b2}{\mathbf{Enniu}}$ $\color{#12072d}{\mathbf{he_it}}$ $\color{#4263b2}{\mathbf{5teen}}$ <img src="https://files.catbox.moe/hl33m8.jpg" width="14"/> <img src="https://files.catbox.moe/274sj7.jpg" width="14"/>
 </p>
 
 <p align="center">
-Under 13 IWC, I block freely <img src="https://files.catbox.moe/oge18k.gif" width="14"/> 
+Under 13 <b>IWC</b>, $\color{#4263b2}{\mathbf{I\ block\ freely}}$ <img src="https://files.catbox.moe/oge18k.gif" width="14"/> 
 </p>
 
 <p align="center">
@@ -19,7 +19,7 @@ Under 13 IWC, I block freely <img src="https://files.catbox.moe/oge18k.gif" widt
 </p>
 
 <p align="center">
-C+H Ok ! <img src="https://files.catbox.moe/79ph10.gif" width="14"/> I'm usually AFK so W2INT . ✦
+C+H Ok <i>!</i> <img src="https://files.catbox.moe/79ph10.gif" width="14"/> $\color{#fccd95}{\mathbf{.\ ✦}}$
 </p>
 
 <p align="center">
