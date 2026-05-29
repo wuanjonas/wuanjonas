@@ -26,7 +26,7 @@ C+H Ok <i>!</i> <img src="https://files.catbox.moe/79ph10.gif" width="14"/> $\co
 <img src="https://komarev.com/ghpvc/?username=spaceyOperator&color=496fa3&style=for-the-badge" />
 </p>
 
-<p align="center"> 
+<p align="center">
 <details>
 <summary>$\color{#4263b2}{\mathbf{Interests}}$</summary>
 </p>
