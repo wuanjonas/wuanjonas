@@ -26,6 +26,18 @@ C+H Ok <i>!</i> <img src="https://files.catbox.moe/79ph10.gif" width="14"/> $\co
 <img src="https://komarev.com/ghpvc/?username=spaceyOperator&color=496fa3&style=for-the-badge" />
 </p>
 
+<p align="center"> 
+<details>
+<summary>$\color{#4263b2}{\mathbf{Interests}}$</summary>
+</p>
+
+<p align="center">
+light blue text = major interests
+
+$\color{#4263b2}{\mathbf{weezer}}$, $\color{#4263b2}{\mathbf{SFTBH}}$, $\color{#12072d}{\mathbf{pikmin}}$, $\color{#12072d}{\mathbf{terraria}}$, $\color{#12072d}{\mathbf{the\  rentals}}$, $\color{#4263b2}{\mathbf{the\ dismemberment\ plan}}$, $\color{#12072d}{\mathbf{muship}}$, $\color{#12072d}{\mathbf{The\ Truman\ Show}}$, $\color{#12072d}{\mathbf{ozma}}$, $\color{#12072d}{\mathbf{17776}}$, $\color{#12072d}{\mathbf{vocaloid/UTAU}}$, $\color{#12072d}{\mathbf{A\ ReGect}}$, $\color{#12072d}{\mathbf{gezebelle\ gaburgably}}$, $\color{#12072d}{\mathbf{stomach book}}$, $\color{#12072d}{\mathbf{etc!}}$
+</details>
+</p>
+
 <p align="center">
 <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31nlxgfjxx4ezh3trhymv2ij57um&cover_image=true&theme=natemoo-re&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)" />
 </p>
