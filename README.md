@@ -33,7 +33,9 @@ C+H Ok <i>!</i> <img src="https://files.catbox.moe/79ph10.gif" width="14"/> $\co
 
 <p align="center">
 light blue text = major interests
+</p>
 
+<p align="center">
 $\color{#4263b2}{\mathbf{weezer}}$, $\color{#4263b2}{\mathbf{SFTBH}}$, $\color{#12072d}{\mathbf{pikmin}}$, $\color{#12072d}{\mathbf{terraria}}$, $\color{#12072d}{\mathbf{the\  rentals}}$, $\color{#4263b2}{\mathbf{the\ dismemberment\ plan}}$, $\color{#12072d}{\mathbf{muship}}$, $\color{#12072d}{\mathbf{The\ Truman\ Show}}$, $\color{#12072d}{\mathbf{ozma}}$, $\color{#12072d}{\mathbf{17776}}$, $\color{#12072d}{\mathbf{vocaloid/UTAU}}$, $\color{#12072d}{\mathbf{A\ ReGect}}$, $\color{#12072d}{\mathbf{gezebelle\ gaburgably}}$, $\color{#12072d}{\mathbf{stomach book}}$, $\color{#12072d}{\mathbf{etc!}}$
 </details>
 </p>
