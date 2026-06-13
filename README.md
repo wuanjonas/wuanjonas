@@ -7,7 +7,11 @@
 </p>
 
 <p align="center">
-$\color{#4263b2}{\textsf{remaking this lol sorry it's so empty}}$ <img src="https://files.catbox.moe/5pu62t.png" width="18"/>
+<img src="https://files.catbox.moe/m8714y.gif" />
+</p>
+
+<p align="center">
+$\color{#4263b2}{\textsf{remaking this lol sorry it's so empty. hi my name is ENniu I like to play and draw my pronuonce are He It}}$ <img src="https://files.catbox.moe/5pu62t.png" width="18"/>
 </p>
 
 <p align="center">
