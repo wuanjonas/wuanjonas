@@ -9,7 +9,7 @@ THIS IS A WORK IN PROGRESS okay? okay... shhh it's okay.... it's okay...........
 </p>
 
 <p align="center">
-$\color{#0840c7}{\textsf{Enniu}}$ <img src="https://files.catbox.moe/9tv3r3.gif" width="14" /> $\color{F2160C}{\textsf{5teen}}$
+<img src="https://files.catbox.moe/pphnmf.gif" width="14"/> $\color{#0840c7}{\textsf{Enniu}}$ <img src="https://files.catbox.moe/9tv3r3.gif" width="14" /> $\color{F2160C}{\textsf{5teen}}$
 </p>
 
 <p align="center">
@@ -17,7 +17,7 @@ $\color{#15d104}{\textsf{DNI if under 13}}$
 </p>
 
 <p align="center">
-$\color{F2160C}{\textsf{Sign my}}$ <a href="https://sftbh.atabook.org/">ata</a> $\color{#15d104}{\textsf{or}}$ <a href="https://enniu.straw.page/">straw</a> <img src="https://files.catbox.moe/j5i6h3.webp" width="14"/>
+$\color{F2160C}{\textsf{Sign my}}$ <a href="https://sftbh.atabook.org/">ata</a> $\color{#15d104}{\textsf{or}}$ <a href="https://enniu.straw.page/">straw</a> <img src="https://files.catbox.moe/18qt6f.gif" width="14"/><img src="https://files.catbox.moe/j5i6h3.webp" width="14"/>
 </p>
 
 <p align="center">
