@@ -1,3 +1,5 @@
+THIS IS A WORK IN PROGRESS okay? okay... shhh it's okay.... it's okay............
+
 <p align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Rubik+Iso&pause=1000&color=F2160C&center=true&vCenter=true&width=435&height=30&lines=Chances+last+a+finite+time;in+the+warm+july+nighttime;every+care+that+keeps+you+from+your+feet%2C;is+a+care+that+carries+your+defeat!" alt="Typing SVG" /></a>
 </p>
@@ -11,12 +13,29 @@
 </p>
 
 <p align="center">
-$\color{#4263b2}{\textsf{Hello !! I'm Enniu... This is like. a wip and shit so stuff's gonna change a lotttttt but all you need to know is C+H is ok anddd my dni is anyone under 13 okay?? okay}}$ <img src="https://files.catbox.moe/5pu62t.png" width="18"/> <img src="https://files.catbox.moe/9tv3r3.gif" width="14" />
+$\color{#0840c7}{\textsf{Enniu}}$ <img src="https://files.catbox.moe/9tv3r3.gif" width="14" /> $\color{F2160C}{\textsf{he it}}$
+</p>
+
+<p align="center">
+$\color{F2160C}{\textsf{Sign my}}$ <a href="https://sftbh.atabook.org/">ata</a> $\color{F2160C}{\textsf{or}}$ <a href="https://enniu.straw.page/">straw</a>
+</p>
+
+<p align="center">
+<a href="https://www.last.fm/user/awesomTerrarian">last.fm</a>
 </p>
 
 <p align="center">
 <img src="https://komarev.com/ghpvc/?username=wuanjonas&color=189bcc&style=for-the-badge" />
 </p>
+
+<p align="center">
+<img src="https://files.catbox.moe/j5i6h3.webp" /> <img src="https://files.catbox.moe/5pu62t.png" width="18"/>
+</p>
+
+<p align="center">
+<img src="https://files.catbox.moe/gr4556.webp" />
+</p>
+
 
 <div align="center">
 <details>
