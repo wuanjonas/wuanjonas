@@ -9,11 +9,11 @@ THIS IS A WORK IN PROGRESS okay? okay... shhh it's okay.... it's okay...........
 </p>
 
 <p align="center">
-<img src="https://files.catbox.moe/pphnmf.gif" width="14"/> $\color{#0840c7}{\textsf{Enniu}}$ <img src="https://files.catbox.moe/9tv3r3.gif" width="14" /> $\color{F2160C}{\textsf{5teen}}$
+$\color{#0840c7}{\textsf{Enniu}}$ <img src="https://files.catbox.moe/9tv3r3.gif" width="14" /> $\color{F2160C}{\textsf{5teen}}$ <img src="https://files.catbox.moe/pphnmf.gif" width="12"/> 
 </p>
 
 <p align="center">
-$\color{#15d104}{\textsf{DNI if under 13}}$
+<img src="https://files.catbox.moe/sp2vz6.gif" width="14"/> $\color{#15d104}{\textsf{DNI if under 13}}$ <img src="https://files.catbox.moe/37zyiw.gif" width="14"/> <img src="https://files.catbox.moe/sp2vz6.gif" width="14"/> 
 </p>
 
 <p align="center">
@@ -21,15 +21,11 @@ $\color{F2160C}{\textsf{Sign my}}$ <a href="https://sftbh.atabook.org/">ata</a> 
 </p>
 
 <p align="center">
-<a href="https://www.last.fm/user/awesomTerrarian">last.fm</a>
+<a href="https://www.last.fm/user/awesomTerrarian">last.fm</a> <img src="https://files.catbox.moe/5pu62t.png" width="18"/>
 </p>
 
 <p align="center">
 <img src="https://komarev.com/ghpvc/?username=wuanjonas&color=189bcc&style=for-the-badge" />
-</p>
-
-<p align="center">
-<img src="https://files.catbox.moe/5pu62t.png" width="18"/>
 </p>
 
 <p align="center">
@@ -121,7 +117,7 @@ Gezebelle Gaburgably, The Dismemberment Plan, OZMA, Among us (The show), Franz F
 ![the stamp next to this stamp is lying](https://files.catbox.moe/n9vo6a.png)
 ![gummy sharks](https://files.catbox.moe/qxqyzz.png)
 ![pacific daydream](https://files.catbox.moe/7mtux1.png)
-![WARNING! this may have yaoi...](https://files.catbox.moe/6bcowk.pnj)
+<img src="https://files.catbox.moe/rokl1g.png" width="105"/>
 ![]()
 ![]()
 ![]()
@@ -131,5 +127,5 @@ Gezebelle Gaburgably, The Dismemberment Plan, OZMA, Among us (The show), Franz F
 </div>
 
 <p align="center">
-<img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31nlxgfjxx4ezh3trhymv2ij57um&cover_image=true&theme=natemoo-re&show_offline=false&background_color=171717&interchange=false&bar_color=189bcc&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)" />
+<img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31nlxgfjxx4ezh3trhymv2ij57um&cover_image=true&theme=natemoo-re&show_offline=false&background_color=171717&interchange=false&bar_color=0840c7&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)" />
 </p>
