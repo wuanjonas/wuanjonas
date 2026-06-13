@@ -3,6 +3,10 @@
 </p>
 
 <p align="center">
+<img src="https://files.catbox.moe/wo2zta.png" width="200"/>
+</p>
+
+<p align="center">
 $\color{#4263b2}{\textsf{remaking this lol sorry it's so empty}}$ <img src="https://files.catbox.moe/5pu62t.png" width="18"/>
 </p>
 
