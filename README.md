@@ -1,5 +1,5 @@
 <p align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Rubik+Iso&pause=1000&color=D40000&center=true&vCenter=true&width=435&lines=Sing+that+song+that+I+used+to+know;the+14th+black+domino;hold+me%2C+like+long+ago;a+heartbeat+sure+and+slow." alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Rubik+Iso&pause=1000&color=F2160C&center=true&vCenter=true&width=435&height=30&lines=Chances+last+a+finite+time;in+the+warm+july+nighttime;every+care+that+keeps+you+from+your+feet%2C;is+a+care+that+carries+your+defeat!" alt="Typing SVG" /></a>
 </p>
 
 <p align="center">
@@ -11,16 +11,17 @@
 </p>
 
 <p align="center">
-$\color{#4263b2}{\textsf{remaking this lol sorry it's so empty. hi my name is ENniu I like to play and draw my pronuonce are He It}}$ <img src="https://files.catbox.moe/5pu62t.png" width="18"/>
+$\color{#4263b2}{\textsf{Hello !! I'm Enniu... This is like. a wip and shit so stuff's gonna change a lotttttt but all you need to know is C+H is ok anddd my dni is anyone under 13 okay?? okay}}$ <img src="https://files.catbox.moe/5pu62t.png" width="18"/> <img src="https://files.catbox.moe/9tv3r3.gif" width="14" />
 </p>
 
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=spaceyOperator&color=189bcc&style=for-the-badge" />
+<img src="https://komarev.com/ghpvc/?username=wuanjonas&color=189bcc&style=for-the-badge" />
 </p>
 
 <div align="center">
 <details>
-<summary>$\color{#4263b2}{\textsf{Interests}}$</summary>
+<summary>$\color{#4263b2}{\textsf{Interests}}$ 
+<img src="https://files.catbox.moe/oge18k.gif" width="14"/></summary>
 </p>
 
 <p align="center">
@@ -36,7 +37,8 @@ $\color{189bcc}{\textsf{Weezer, SFTBH,}}$ $\color{#4263b2}{\textsf{Stomach book,
 <div align="center">
 <p align="center">
 <details>
-<summary>$\color{#4263b2}{\textsf{Stamp collection}}$</summary> 
+<summary>$\color{#4263b2}{\textsf{Stamp collection}}$ 
+<img src="https://files.catbox.moe/oge18k.gif" width="14"/> </summary> 
 </p>
 
 <p align="center">
