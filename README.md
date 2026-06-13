@@ -1,5 +1,5 @@
 <p align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Coral+Pixels&pause=1000&color=D40000&center=true&vCenter=true&width=435&lines=Sing+that+song+that+I+used+to+know;the+14th+black+domino;hold+me%2C+like+long+ago;a+heartbeat+sure+and+slow." alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Rubik+Iso&pause=1000&color=D40000&center=true&vCenter=true&width=435&lines=Sing+that+song+that+I+used+to+know;the+14th+black+domino;hold+me%2C+like+long+ago;a+heartbeat+sure+and+slow." alt="Typing SVG" /></a>
 </p>
 
 <p align="center">
