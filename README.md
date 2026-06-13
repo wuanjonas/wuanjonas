@@ -1,5 +1,5 @@
 <p align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Stack+Sans+Notch&pause=1000&color=D40000&center=true&vCenter=true&width=435&lines=Sing+that+song+that+I+used+to+know;the+14th+black+domino;hold+me%2C+like+long+ago;a+heartbeat+sure+and+slow." alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Coral+Pixels&pause=1000&color=D40000&center=true&vCenter=true&width=435&lines=Sing+that+song+that+I+used+to+know;the+14th+black+domino;hold+me%2C+like+long+ago;a+heartbeat+sure+and+slow." alt="Typing SVG" /></a>
 </p>
 
 <p align="center">
@@ -100,3 +100,6 @@ $\color{189bcc}{\textsf{Weezer, SFTBH,}}$ $\color{#4263b2}{\textsf{Stomach book,
 </s>
 </div>
 
+<p align="center">
+<img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31nlxgfjxx4ezh3trhymv2ij57um&cover_image=true&theme=natemoo-re&show_offline=false&background_color=171717&interchange=false&bar_color=189bcc&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)" />
+</p>
