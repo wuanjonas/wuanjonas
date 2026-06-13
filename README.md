@@ -9,15 +9,15 @@ THIS IS A WORK IN PROGRESS okay? okay... shhh it's okay.... it's okay...........
 </p>
 
 <p align="center">
-<img src="https://files.catbox.moe/m8714y.gif" />
+$\color{#0840c7}{\textsf{Enniu}}$ <img src="https://files.catbox.moe/9tv3r3.gif" width="14" /> $\color{F2160C}{\textsf{5teen}}$
 </p>
 
 <p align="center">
-$\color{#0840c7}{\textsf{Enniu}}$ <img src="https://files.catbox.moe/9tv3r3.gif" width="14" /> $\color{F2160C}{\textsf{he it}}$
+$\color{#15d104}{\textsf{DNI if under 13}}$
 </p>
 
 <p align="center">
-$\color{F2160C}{\textsf{Sign my}}$ <a href="https://sftbh.atabook.org/">ata</a> $\color{F2160C}{\textsf{or}}$ <a href="https://enniu.straw.page/">straw</a>
+$\color{F2160C}{\textsf{Sign my}}$ <a href="https://sftbh.atabook.org/">ata</a> $\color{#15d104}{\textsf{or}}$ <a href="https://enniu.straw.page/">straw</a> <img src="https://files.catbox.moe/j5i6h3.webp" width="14"/>
 </p>
 
 <p align="center">
@@ -29,7 +29,7 @@ $\color{F2160C}{\textsf{Sign my}}$ <a href="https://sftbh.atabook.org/">ata</a> 
 </p>
 
 <p align="center">
-<img src="https://files.catbox.moe/j5i6h3.webp" /> <img src="https://files.catbox.moe/5pu62t.png" width="18"/>
+<img src="https://files.catbox.moe/5pu62t.png" width="18"/>
 </p>
 
 <p align="center">
@@ -39,24 +39,25 @@ $\color{F2160C}{\textsf{Sign my}}$ <a href="https://sftbh.atabook.org/">ata</a> 
 
 <div align="center">
 <details>
-<summary>$\color{#4263b2}{\textsf{Interests}}$ 
+<summary>$\color{#15d104}{\textsf{Interests}}$ 
 <img src="https://files.catbox.moe/oge18k.gif" width="14"/></summary>
 </p>
 
 <p align="center">
-Weezer blue txt = major interests
-</p>
+Gezebelle Gaburgably, The Dismemberment Plan, OZMA, Among us (The show), Franz Ferdinand (the band), sElf, Pikmin, Minecraft, Terraria, Songs from the Black Hole, The Rentals, Stomach book, They might be Giants, vocaloid + UTAU, Uhhh and other stuff I"m too lazy to list. And Weezer yeah weezer too hi
 
-<p align="center">
-$\color{189bcc}{\textsf{Weezer, SFTBH,}}$ $\color{#4263b2}{\textsf{Stomach book,}}$ $\color{#4263b2}{\textsf{Gezebelle Gaburgably,}}$ $\color{#4263b2}{\textsf{Ozma,}}$ $\color{#4263b2}{\textsf{Pikmin,}}$ $\color{#4263b2}{\textsf{Franz Ferdinand (The band!!!),}}$ $\color{#4263b2}{\textsf{Among us (The show),}}$ $\color{#4263b2}{\textsf{muship,}}$ $\color{189bcc}{\textsf{The Dismemberment Plan}}$
 </p>
 </details>
 </div>
 
+<p align="center">
+<img src="https://files.catbox.moe/m8714y.gif" />
+</p>
+
 <div align="center">
 <p align="center">
 <details>
-<summary>$\color{#4263b2}{\textsf{Stamp collection}}$ 
+<summary>$\color{#15d104}{\textsf{Stamp collection}}$ 
 <img src="https://files.catbox.moe/oge18k.gif" width="14"/> </summary> 
 </p>
 
