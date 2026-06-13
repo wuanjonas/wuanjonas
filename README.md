@@ -33,6 +33,9 @@ $\color{F2160C}{\textsf{Sign my}}$ <a href="https://sftbh.atabook.org/">ata</a> 
 <img src="https://files.catbox.moe/gr4556.webp" />
 </p>
 
+<p align="center">
+<img src="https://files.catbox.moe/3rev18.gif" />
+</p>
 
 <div align="center">
 <details>
