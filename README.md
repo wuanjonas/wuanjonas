@@ -101,7 +101,7 @@ $\color{189bcc}{\textsf{Weezer, SFTBH,}}$ $\color{#4263b2}{\textsf{Stomach book,
 ![the stamp next to this stamp is lying](https://files.catbox.moe/n9vo6a.png)
 ![gummy sharks](https://files.catbox.moe/qxqyzz.png)
 ![pacific daydream](https://files.catbox.moe/7mtux1.png)
-![]()
+![WARNING! this may have yaoi...](https://files.catbox.moe/6bcowk.pnj)
 ![]()
 ![]()
 ![]()
