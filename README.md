@@ -14,7 +14,7 @@ $\color{#0840c7}{\textsf{Enniu}}$ <img src="https://files.catbox.moe/9tv3r3.gif"
 </p>
 
 <p align="center">
-<img src="https://files.catbox.moe/sp2vz6.gif" width="14"/> $\color{#15d104}{\textsf{DNI if under 13}}$ <img src="https://files.catbox.moe/37zyiw.gif" width="14"/> <img src="https://files.catbox.moe/sp2vz6.gif" width="14"/> 
+<img src="https://files.catbox.moe/sp2vz6.gif" width="14"/> $\color{#15d104}{\textsf{PLSSS DNI if under 13!!! PLS}}$ <img src="https://files.catbox.moe/37zyiw.gif" width="14"/> <img src="https://files.catbox.moe/sp2vz6.gif" width="14"/> 
 </p>
 
 <p align="center">
