@@ -1,4 +1,8 @@
 <p align="center">
+<img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31nlxgfjxx4ezh3trhymv2ij57um&cover_image=true&theme=natemoo-re&show_offline=false&background_color=171717&interchange=false&bar_color=0840c7&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)" />
+</p>
+
+<p align="center">
 <img src="https://files.catbox.moe/xey02d.gif">
 </p>
 
@@ -8,4 +12,8 @@
 
 <p align="center">
 <a href="https://www.last.fm/user/awesomTerrarian">last.fm</a> <img src="https://files.catbox.moe/5pu62t.png" width="18"/> <a href="https://enniu.nekoweb.org/">nekoweb</a>
+</p>
+
+<p align="center">
+<img src="https://files.catbox.moe/m8714y.gif" />
 </p>
