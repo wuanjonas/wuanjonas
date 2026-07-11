@@ -15,5 +15,5 @@
 </p>
 
 <p align="center">
-<img src="https://files.catbox.moe/m8714y.gif" />
+<img src="https://komarev.com/ghpvc/?username=wuanjonas&label=Shooting+Stars&base=2785&color=0840c7&style=for-the-badge" />
 </p>
